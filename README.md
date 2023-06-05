@@ -1,4 +1,6 @@
-# Coder Desafio N° 1
+# CoderHouse Desafio N° 1 Backend. Fernando Morales. Comision #52250
+
+Agregados:
 
 ### `node index.js`
 
